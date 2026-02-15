@@ -1,16 +1,25 @@
-# pharmacyadmin
+# MEDIPHARMA-Dashboard
 
-A new Flutter project.
+MEDIPHARMA-Dashboard is an admin dashboard for the MediPharma mobile application, built with Flutter and Dart.  
+The dashboard provides a comprehensive interface for managing appointments, monitoring user data, and overseeing healthcare workflows efficiently.  
+It features modern UI/UX design principles, ensuring an intuitive, responsive, and user-friendly experience for administrators and healthcare staff.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Manage and track appointments efficiently
+- Monitor user data and healthcare interactions
+- Intuitive and modern UI/UX design
+- Responsive dashboard optimized for multiple devices
+- Secure and maintainable code structure
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Figma (for design and UI/UX)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MinaFarhat/MEDIPHARMA-Dashboard.git
