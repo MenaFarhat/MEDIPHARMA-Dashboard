@@ -20,12 +20,9 @@ It features modern UI/UX design principles, ensuring an intuitive, responsive, a
 
 ## 🎬 Demo Video
 
-<p align="center">
-  <video width="480" controls>
-    <source src="Mockup-Video/mockup-video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+Click the thumbnail below to watch the demo video in a new tab:
+
+[![Watch Demo Video](assets/Mockup-Video/thumbnail.png)](https://github.com/MenaFarhat/MEDIPHARMA-Dashboard/raw/main/Mockup-Video/demo.mp4)
 
 ## ⚙️ Getting Started
 
