@@ -22,7 +22,7 @@ It features modern UI/UX design principles, ensuring an intuitive, responsive, a
 
 Click the thumbnail below to watch the demo video in a new tab:
 
-[![Watch Demo Video](assets/Mockup-Video/thumbnail.png)](https://github.com/MenaFarhat/MEDIPHARMA-Dashboard/raw/main/assets/Mockup-Video/demo.mp4)
+[![Watch Demo Video](assets/Mockup-Video/thumbnail.png)](https://github.com/MenaFarhat/MEDIPHARMA-Dashboard/raw/main/Mockup-Video/demo.mp4)
 
 ## ⚙️ Getting Started
 
